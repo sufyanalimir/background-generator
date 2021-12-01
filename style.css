@@ -9,11 +9,11 @@ body{
 }
 
 h1{
-    font: 600 5em 'Raleway', sans-serif;
+    font: 600 2em 'Raleway', sans-serif;
     color: rgba(0, 0, 0, .5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .2em;
     width: 100%;
 }
 
